@@ -1,10 +1,10 @@
 <div align="center">
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=FF4D8D&height=120&section=header)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=header)
 
 # 👋 Hi there, I'm Malak! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=FF4D8D&center=true&vCenter=true&width=600&lines=Software+Engineer;Front-End+Developer;Angular+Specialist;Coding+Instructor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=007ACC&center=true&vCenter=true&width=600&lines=Software+Engineer;Front-End+Developer;Angular+Specialist;Coding+Instructor)](https://git.io/typing-svg)
 
 *Crafting clean, responsive, and user-centric web experiences.*
 
@@ -18,7 +18,6 @@
 - 💻 Passionate **Front-End Developer** specializing in building scalable web applications with **Angular, TypeScript, and RxJS**.
 - 🚀 **Experience Highlights:** Developed robust real-world projects including E-Commerce platforms, Healthcare Systems, and Movie Applications, emphasizing clean architecture and seamless API integration.
 - 🧑‍🏫 **Coding Instructor:** Dedicated to mentoring students, breaking down complex programming concepts, and guiding them to build practical projects.
-- 🌱 **Currently Learning:** [اكتبي هنا تقنية بتتعلميها حالياً أو ادمجي السطر ده لو مش محتاجاه]
 - 🤝 **Open to:** Exciting Front-End roles, freelance opportunities, and tech collaborations.
 
 ---
@@ -37,7 +36,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
@@ -54,8 +53,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=777777&bg_color=00000000" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=007ACC&text_color=777777&bg_color=00000000" alt="Top Languages" height="195"/>
 </div>
 
 ---
@@ -81,6 +80,6 @@
 ### 🐍 Contribution Graph
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=C084FC&height=120&section=footer)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer)
 
 </div>
