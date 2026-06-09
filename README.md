@@ -53,8 +53,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=777777&bg_color=00000000" alt="GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=007ACC&text_color=777777&bg_color=00000000" alt="Top Languages" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MalakMohamed119&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=777777&bg_color=00000000" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakMohamed119&layout=compact&hide_border=true&title_color=007ACC&text_color=777777&bg_color=00000000" alt="Top Languages" height="195"/>
 </div>
 
 ---
@@ -68,7 +68,7 @@
   <a href="https://linkedin.com/in/malak-mohamed-mostafa-762996275/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:اكتبي_ايميلك_الحقيقي_هنا">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
