@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MalakMohamed119&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=777777&bg_color=00000000" alt="GitHub Stats" height="195"/>
@@ -68,7 +68,7 @@
   <a href="https://linkedin.com/in/malak-mohamed-mostafa-762996275/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:اكتبي_ايميلك_الحقيقي_هنا">
+  <a href="mailto:malk.mohmed211@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
