@@ -1,10 +1,5 @@
 <div align="center">
 
-  # I am a
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=00A3C4&center=true&vCenter=true&width=500&lines=Front-End+Developer;Angular+Developer;Software+Engineer;Coding+Instructor)](https://git.io/typing-svg)
-
----
 # 💫 About Me
 
 🎓 Software Engineering Graduate from Capital University (Formerly Helwan University).
@@ -19,7 +14,11 @@
 
 ---
 
+## 💖 I am a
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=FF4D8D&center=true&vCenter=true&width=500&lines=Front-End+Developer;Angular+Developer;Software+Engineer;Coding+Instructor)](https://git.io/typing-svg)
+
+---
 
 ## 🌐 Socials
 
