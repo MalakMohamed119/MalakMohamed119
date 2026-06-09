@@ -1,20 +1,22 @@
 <div align="center">
 
+![wave](https://capsule-render.vercel.app/api?type=waving&color=FF4D8D&height=120&section=header)
+
 # 💫 About Me
 
-🎓 Software Engineering Graduate from Capital University (Formerly Helwan University).
+🎓 Software Engineering Graduate from Capital University (Formerly Helwan University)
 
-💻 I am a Front-End Developer passionate about building responsive, scalable, and user-friendly web applications using Angular, TypeScript, JavaScript, and modern UI technologies.
+💻 Front-End Developer passionate about building responsive, scalable, and user-friendly web applications using Angular, TypeScript, JavaScript, and modern UI technologies
 
-🧠 Strong foundation in Computer Science fundamentals, OOP, Data Structures, Algorithms, and Problem Solving.
+🧠 Strong foundation in Computer Science fundamentals, OOP, Data Structures, Algorithms, and Problem Solving
 
-🚀 Experienced in building real-world projects including E-Commerce platforms, Healthcare Systems, and Movie Applications with focus on clean architecture, API integration, and great user experience.
+🚀 Experienced in building real-world projects including E-Commerce platforms, Healthcare Systems, and Movie Applications with focus on clean architecture, API integration, and great user experience
 
-🧑‍🏫 I also work as a Coding Instructor, helping students understand programming concepts and build real projects.
+🧑‍🏫 Coding Instructor helping students understand programming concepts and build real projects
 
 ---
 
-##  I am a
+## 💖 I am a
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=FF4D8D&center=true&vCenter=true&width=500&lines=Front-End+Developer;Angular+Developer;Software+Engineer;Coding+Instructor)](https://git.io/typing-svg)
 
@@ -46,10 +48,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-![](https://github-readme-stats.shion.dev/api?username=MalakMohamed119&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MalakMohamed119&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MalakMohamed119&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+![wave](https://capsule-render.vercel.app/api?type=waving&color=C084FC&height=120&section=footer)
 
 </div>
