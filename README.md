@@ -53,7 +53,7 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalakMohamed119&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=777777&bg_color=00000000" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MalakMohamed119&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=777777&bg_color=00000000&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" height="195"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakMohamed119&layout=compact&hide_border=true&title_color=007ACC&text_color=777777&bg_color=00000000" alt="Top Languages" height="195"/>
 </div>
 
@@ -62,13 +62,13 @@
 ## 🌐 Let's Connect!
 
 <div align="center">
-  <a href="https://my-portfolio-kohl-one-gjqf59j8lb.vercel.app/">
+  <a href="https://my-portfolio-kohl-one-gjqf59j8lb.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/malak-mohamed-mostafa-762996275/">
+  <a href="https://linkedin.com/in/malak-mohamed-mostafa-762996275/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:malk.mohmed211@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=malk.mohmed211@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
