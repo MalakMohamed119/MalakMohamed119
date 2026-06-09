@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MalakMohamed119&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=777777&bg_color=00000000&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" height="195"/>
