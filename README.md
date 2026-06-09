@@ -1,13 +1,18 @@
 # 💫 About Me
 
+# 💫 About Me
+
 🎓 Software Engineering Graduate from Capital University (Formerly Helwan University).
+
 💻 Front-End Developer specialized in building responsive, scalable, and user-friendly web applications using Angular, TypeScript, JavaScript, and modern UI technologies.
+
 🧠 Strong foundation in Computer Science fundamentals, Object-Oriented Programming (OOP), Data Structures, Algorithms, and Problem Solving.
+
 🚀 Experienced in developing real-world projects ranging from E-Commerce platforms and Healthcare Systems to Movie Discovery Applications, with a focus on clean architecture, API integration, and exceptional user experiences.
+
 🗣️ Programming Instructor passionate about simplifying complex programming concepts, mentoring students, and helping future developers grow their technical skills.
+
 🌱 Currently seeking opportunities as a Front-End / Angular Developer to contribute to impactful products while continuously learning and growing.
-
-
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-kohl-one-gjqf59j8lb.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malak-mohamed-mostafa-762996275/)
 
